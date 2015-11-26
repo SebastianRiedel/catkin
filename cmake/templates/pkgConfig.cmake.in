@@ -1,3 +1,6 @@
+#-------------------------------------------------------
+# RMC-catkin
+#-------------------------------------------------------
 # generated from catkin/cmake/template/pkgConfig.cmake.in
 
 # append elements to a list and remove existing duplicates from the list
